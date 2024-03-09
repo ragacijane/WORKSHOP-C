@@ -1,0 +1,20 @@
+C:\Users\Luka\Desktop\prog\Srdjan Oroz projekat\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Luka\Desktop\prog\Srdjan Oroz projekat\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Luka\Desktop\prog\Srdjan Oroz projekat\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Luka\Desktop\prog\Srdjan Oroz projekat\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Luka\Desktop\prog\Srdjan Oroz projekat\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Luka\Desktop\prog\Srdjan Oroz projekat\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Luka\Desktop\prog\Srdjan Oroz projekat\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Luka\Desktop\prog\Srdjan Oroz projekat\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Luka\Desktop\prog\Srdjan Oroz projekat\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Luka\Desktop\prog\Srdjan Oroz projekat\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\Fajlovi\Skola\Programiranje projekat\Srdjan Oroz projekat\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\Fajlovi\Skola\Programiranje projekat\Srdjan Oroz projekat\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\Fajlovi\Skola\Programiranje projekat\Srdjan Oroz projekat\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\Fajlovi\Skola\Programiranje projekat\Srdjan Oroz projekat\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\Fajlovi\Skola\Programiranje projekat\Srdjan Oroz projekat\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\Fajlovi\Skola\Programiranje projekat\Srdjan Oroz projekat\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Fajlovi\Skola\Programiranje projekat\Srdjan Oroz projekat\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\Fajlovi\Skola\Programiranje projekat\Srdjan Oroz projekat\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\Fajlovi\Skola\Programiranje projekat\Srdjan Oroz projekat\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\Fajlovi\Skola\Programiranje projekat\Srdjan Oroz projekat\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
